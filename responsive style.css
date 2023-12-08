@@ -1,0 +1,29 @@
+/* mobile screen */
+@media screen and (max-width:576px) {
+    .nav-container,
+    .nav-logo-container,
+    .nav-manus,
+    .nav-manu,
+    .nav-manu-btn,
+    .goat-main,
+    .video-cards-container,
+    .download-main,
+    .games-container
+    {
+        flex-direction: column;
+    }
+}
+
+
+
+/* tablate screen */
+@media screen and (min-width:577px) and (max-width:900px) {
+
+
+
+
+
+
+
+
+}
