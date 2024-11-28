@@ -2,7 +2,7 @@
 
 ## Live Link Surge
 
-- **Live Link:** [PlayNexus Station](https://mahfuzrahman99.github.io/Assignment-Tow/)
+- **Live Link:** [PlayNexus Station](https://assignment-tow.vercel.app)
 
 ## Overview
 
